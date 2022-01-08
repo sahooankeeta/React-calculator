@@ -63,6 +63,9 @@ button {
   border: none;
   cursor: pointer;
 }
-button:active {
+button:hover {
   background-color: #c2beb9;
+}
+button:active {
+  background-color: #a5a29e;
 }
